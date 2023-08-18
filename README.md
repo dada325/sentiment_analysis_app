@@ -76,3 +76,16 @@ But we are not getting better since the first epoch of the accuracy on the test 
 ---
 
 This entire process, from research to deployment, represents a typical machine learning pipeline. The specific steps and technologies can vary based on the problem, the available data, and the deployment environment. However, the overall structure—research, development, and deployment—remains consistent across many machine learning projects.
+
+
+### possible improvement 
+
+
+Parameter Efficient Fine-Tuning Techniques
+
+1 Knowledge Distillation
+Pruning
+Quantization
+Low-Rank Factorization
+Knowledge Injection
+Adapter Modules
